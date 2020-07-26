@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f95c873-382e-4d8d-879b-f6890f05e21c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/ebms_frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/npm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/adminOrderPanel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/adminStockPanel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/adminUserPanel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/book.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/bookDetail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/bookList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/cartItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/orderItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/panel_gen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/searchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/css/upperNav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/book3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/book4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/book5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/bookCover.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/login_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/main_background_dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/main_background_light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/img/search_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/adminOrderPanel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/adminStockPanel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/adminUserPanel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/book.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/bookDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/bookList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/cartItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/chart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/orderItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/panel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/searchBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/sideNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/stock.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/upperNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/components/userBookChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ebms_frontend/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ebms_mongo@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ebms_mongo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="ebms_mongo: schema" type="f0f64354:MongoImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ebms_mongo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="ebms_mongo: schema" type="f0f64354:MongoImplModel$Schema" />
+        <item name="bookColl: table" type="531e99d1:MongoImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c7ju8ydH95lODUBNBUpkCqbs3v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mongo" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ebms_frontend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Edward\Study\Coding\Web\ebms_backend\src\main\java\com\dawn\ebms" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EbmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ebms_backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dawn.ebms.EbmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f95c873-382e-4d8d-879b-f6890f05e21c" name="Default Changelist" comment="" />
+      <created>1589886745526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589886745526</updated>
+      <workItem from="1589886749123" duration="1075000" />
+      <workItem from="1589889950045" duration="2311000" />
+      <workItem from="1589938964697" duration="6154000" />
+      <workItem from="1589991175004" duration="723000" />
+      <workItem from="1590106936890" duration="468000" />
+      <workItem from="1590111268193" duration="120000" />
+      <workItem from="1590124921749" duration="4656000" />
+      <workItem from="1590155841851" duration="71000" />
+      <workItem from="1590155920758" duration="1841000" />
+      <workItem from="1590163392197" duration="1379000" />
+      <workItem from="1590165822924" duration="173000" />
+      <workItem from="1590166180634" duration="446000" />
+      <workItem from="1590166664933" duration="598000" />
+      <workItem from="1590169366801" duration="599000" />
+      <workItem from="1590170305100" duration="66000" />
+      <workItem from="1590171144519" duration="1720000" />
+      <workItem from="1590197657089" duration="5898000" />
+      <workItem from="1590333159374" duration="886000" />
+      <workItem from="1590465510923" duration="232000" />
+      <workItem from="1590636949595" duration="1737000" />
+      <workItem from="1590727256696" duration="596000" />
+      <workItem from="1590745720431" duration="3195000" />
+      <workItem from="1590841227036" duration="1012000" />
+      <workItem from="1590846615233" duration="293000" />
+      <workItem from="1590847020818" duration="1173000" />
+      <workItem from="1590854750450" duration="257000" />
+      <workItem from="1590879855232" duration="1100000" />
+      <workItem from="1590890442470" duration="1378000" />
+      <workItem from="1591149020642" duration="82000" />
+      <workItem from="1591156505541" duration="4137000" />
+      <workItem from="1591178243821" duration="17973000" />
+      <workItem from="1591317469126" duration="5199000" />
+      <workItem from="1591349847652" duration="1319000" />
+      <workItem from="1591351542077" duration="600000" />
+      <workItem from="1591500604877" duration="3533000" />
+      <workItem from="1591586216358" duration="6086000" />
+      <workItem from="1591600874358" duration="584000" />
+      <workItem from="1591615021094" duration="7090000" />
+      <workItem from="1591976016062" duration="1512000" />
+      <workItem from="1592005127830" duration="4227000" />
+      <workItem from="1592107050447" duration="11044000" />
+      <workItem from="1592204246735" duration="2336000" />
+      <workItem from="1592223408569" duration="6952000" />
+      <workItem from="1592362236063" duration="4173000" />
+      <workItem from="1592438712954" duration="2520000" />
+      <workItem from="1592541721984" duration="652000" />
+      <workItem from="1592558014269" duration="1858000" />
+      <workItem from="1592573047724" duration="1726000" />
+      <workItem from="1592613446953" duration="2233000" />
+      <workItem from="1592832825522" duration="3611000" />
+      <workItem from="1592876736747" duration="2559000" />
+      <workItem from="1592918570660" duration="2655000" />
+      <workItem from="1593010877661" duration="1357000" />
+      <workItem from="1593098544454" duration="1324000" />
+      <workItem from="1593510159561" duration="3148000" />
+      <workItem from="1593581806206" duration="1226000" />
+      <workItem from="1593603786542" duration="2374000" />
+      <workItem from="1593681470146" duration="641000" />
+      <workItem from="1593761377953" duration="2543000" />
+      <workItem from="1593789211689" duration="8217000" />
+      <workItem from="1593810336396" duration="1074000" />
+      <workItem from="1593812543700" duration="531000" />
+      <workItem from="1593813372618" duration="275000" />
+      <workItem from="1593830784296" duration="824000" />
+      <workItem from="1594042462902" duration="2104000" />
+      <workItem from="1594101847223" duration="267000" />
+      <workItem from="1594109524993" duration="629000" />
+      <workItem from="1594183863822" duration="599000" />
+      <workItem from="1594208384298" duration="453000" />
+      <workItem from="1594210529048" duration="57000" />
+      <workItem from="1594255419469" duration="876000" />
+      <workItem from="1594256902258" duration="2051000" />
+      <workItem from="1594263401953" duration="1312000" />
+      <workItem from="1594271123377" duration="585000" />
+      <workItem from="1594281529410" duration="676000" />
+      <workItem from="1594290110956" duration="492000" />
+      <workItem from="1594290694559" duration="1616000" />
+      <workItem from="1594340490860" duration="687000" />
+      <workItem from="1594796431289" duration="1652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Assign_Data_Sources" timestamp="1591617866206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1591617866206" />
+    <state x="485" y="19" width="1092" height="1007" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594208468011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="485" y="19" width="1092" height="1007" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594208468011" />
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592208276124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1592208276124" />
+    <state x="995" y="237" key="FileChooserDialogImpl" timestamp="1594208830567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="995" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594208830567" />
+    <state width="874" height="182" key="GridCell.Tab.0.bottom" timestamp="1594102114619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114619" />
+    <state width="874" height="182" key="GridCell.Tab.0.center" timestamp="1594102114618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114618" />
+    <state width="874" height="182" key="GridCell.Tab.0.left" timestamp="1594102114618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114618" />
+    <state width="874" height="182" key="GridCell.Tab.0.right" timestamp="1594102114619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114619" />
+    <state width="874" height="182" key="GridCell.Tab.1.bottom" timestamp="1594102114619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114619" />
+    <state width="874" height="182" key="GridCell.Tab.1.center" timestamp="1594102114619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114619" />
+    <state width="874" height="182" key="GridCell.Tab.1.left" timestamp="1594102114619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114619" />
+    <state width="874" height="182" key="GridCell.Tab.1.right" timestamp="1594102114619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="874" height="182" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594102114619" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1591595985767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591595985767" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1591595985767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591595985767" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1591595985767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591595985767" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1591595985767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591595985767" />
+    <state x="625" y="219" key="NewModule_or_Project.wizard" timestamp="1594208836199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="219" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594208836199" />
+    <state x="936" y="267" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1589891014594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="936" y="267" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589891014594" />
+    <state x="773" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594340497292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594340497292" />
+    <state x="724" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591240695802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591240695802" />
+    <state x="1136" y="252" width="607" height="536" key="find.popup" timestamp="1594796574749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1136" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594796574749" />
+    <state x="665" y="313" width="963" height="653" key="new project wizard" timestamp="1590170351744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="313" width="963" height="653" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590170351744" />
+    <state x="948" y="244" key="run.anything.popup" timestamp="1592450872717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="948" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592450872717" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592370025802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592370025802" />
+  </component>
+</project>

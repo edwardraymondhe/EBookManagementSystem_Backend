@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="ebms_mongo@localhost">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.17">
+    <root id="1">
+      <ServerVersion>4.2.6</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="admin"/>
+    <schema id="3" parent="1" name="config"/>
+    <schema id="4" parent="1" name="ebms_mongo">
+      <Current>1</Current>
+    </schema>
+    <schema id="5" parent="1" name="local"/>
+    <table id="6" parent="4" name="bookColl"/>
+    <table id="7" parent="4" name="cart"/>
+    <table id="8" parent="4" name="purchase"/>
+    <table id="9" parent="4" name="userColl"/>
+    <column id="10" parent="6" name="_id">
+      <DataType>ObjectId(0)|12s</DataType>
+    </column>
+    <column id="11" parent="6" name="bookCover">
+      <Position>1</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+    <column id="12" parent="6" name="bookId">
+      <Position>2</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="13" parent="6" name="bookIntro">
+      <Position>3</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+    <column id="14" parent="7" name="_id">
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="15" parent="7" name="_class">
+      <Position>1</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+    <column id="16" parent="7" name="cartInfo">
+      <Position>2</Position>
+      <DataType>list(0)|4999545s</DataType>
+    </column>
+    <column id="17" parent="7" name="cartInfo.bookId">
+      <Position>3</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="18" parent="7" name="cartInfo.quantity">
+      <Position>4</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="19" parent="8" name="_id">
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="20" parent="8" name="_class">
+      <Position>1</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+    <column id="21" parent="8" name="orderItem">
+      <Position>2</Position>
+      <DataType>list(0)|4999545s</DataType>
+    </column>
+    <column id="22" parent="8" name="orderItem.orderInfo">
+      <Position>3</Position>
+      <DataType>list(0)|4999545s</DataType>
+    </column>
+    <column id="23" parent="8" name="orderItem.orderInfo.bookId">
+      <Position>4</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="24" parent="8" name="orderItem.orderInfo.price">
+      <Position>5</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="25" parent="8" name="orderItem.orderInfo.quantity">
+      <Position>6</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="26" parent="8" name="orderItem.timestamp">
+      <Position>7</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+    <column id="27" parent="8" name="orderItem.totalPrice">
+      <Position>8</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="28" parent="9" name="_id">
+      <DataType>ObjectId(0)|12s</DataType>
+    </column>
+    <column id="29" parent="9" name="userIcon">
+      <Position>1</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+    <column id="30" parent="9" name="userId">
+      <Position>2</Position>
+      <DataType>Integer|4s</DataType>
+    </column>
+    <column id="31" parent="9" name="userIntro">
+      <Position>3</Position>
+      <DataType>String(0)|12s</DataType>
+    </column>
+  </database-model>
+</dataSource>
